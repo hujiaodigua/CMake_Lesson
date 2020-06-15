@@ -1,0 +1,6 @@
+/home/leeyee/cmake_space/Demo4/CMakeFiles/edit_cache.dir
+/home/leeyee/cmake_space/Demo4/CMakeFiles/rebuild_cache.dir
+/home/leeyee/cmake_space/Demo4/CMakeFiles/Demo.dir
+/home/leeyee/cmake_space/Demo4/my_math/CMakeFiles/rebuild_cache.dir
+/home/leeyee/cmake_space/Demo4/my_math/CMakeFiles/edit_cache.dir
+/home/leeyee/cmake_space/Demo4/my_math/CMakeFiles/MathFunctions.dir
