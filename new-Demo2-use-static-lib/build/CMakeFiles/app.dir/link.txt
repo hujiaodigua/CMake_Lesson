@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/app.dir/src/main.c.o -o app   -L/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-static-lib/lib  -Wl,-rpath,/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-static-lib/lib -lcalc 

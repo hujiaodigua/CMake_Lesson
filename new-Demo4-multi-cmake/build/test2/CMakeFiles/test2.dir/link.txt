@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test2.dir/sort.c.o -o ../../bin/test2   -L/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/lib  -Wl,-rpath,/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/lib ../../lib/libsort.so 

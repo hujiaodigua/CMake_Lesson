@@ -1,0 +1,14 @@
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/CMakeFiles/rebuild_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/calc/CMakeFiles/calc.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/calc/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/calc/CMakeFiles/rebuild_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/sort/CMakeFiles/sort.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/sort/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/sort/CMakeFiles/rebuild_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/test1/CMakeFiles/test1.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/test1/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/test1/CMakeFiles/rebuild_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/test2/CMakeFiles/test2.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/test2/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/build/test2/CMakeFiles/rebuild_cache.dir

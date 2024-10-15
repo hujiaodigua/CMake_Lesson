@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test1.dir/calc.c.o -o ../../bin/test1   -L/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/lib  -Wl,-rpath,/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo1/lib ../../lib/libcalc.a 

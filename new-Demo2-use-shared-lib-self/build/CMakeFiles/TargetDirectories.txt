@@ -1,0 +1,3 @@
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-shared-lib-self/build/CMakeFiles/app.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-shared-lib-self/build/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-shared-lib-self/build/CMakeFiles/rebuild_cache.dir

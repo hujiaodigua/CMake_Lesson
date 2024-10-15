@@ -1,0 +1,3 @@
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-static-lib/build/CMakeFiles/app.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-static-lib/build/CMakeFiles/edit_cache.dir
+/home/yeeli/Program-C-magic_space/CMake_Lesson/new-Demo2-use-static-lib/build/CMakeFiles/rebuild_cache.dir
